@@ -1,3 +1,7 @@
+
+<title>codes <title>
+
+
 <div id="biggest-idea-ever">
 	<div id="one-tiny-tiny-site-for-team-ai">
 	<img src="i/thesite.gif" width="1" height="1" alt="The Entire Website." title="click me"/>
